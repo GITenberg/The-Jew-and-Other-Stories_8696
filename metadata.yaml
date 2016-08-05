@@ -1,0 +1,43 @@
+_repo: The-Jew-and-Other-Stories_8696
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Garnett, Constance
+    alias: Black, Constance Clara
+    birthdate: 1861
+    deathdate: 1946
+    gutenberg_agent_id: '2858'
+    url: http://www.gutenberg.org/2009/agents/2858
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Constance_Garnett
+    - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Turgénieff, Iván
+    - Tourgueneff, Ivan
+    - Тургенев, Иван Сергеевич
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8696'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Turgenev, Ivan Sergeevich, 1818-1883 -- Translations into English'
+- GITenberg
+tableOfContents: The Jew -- An unhappy girl -- The duellist -- Three portraits --
+  Enough.
+title: The Jew and Other Stories
+url: http://www.gutenberg.org/ebooks/8696
